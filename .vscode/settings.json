@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/21d0fd87-98d1-4819-be82-798cd6ee97cb/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ecomBackend",
+    "appService.deploySubpath": "backend"
+}
